@@ -15,4 +15,7 @@
 **CHAPTER 3: [Object Oriented Programming](https://github.com/Darrenrodricks/IntermediatePythonNanodegree/tree/main/ObjectOrientedProgramming)**
 *This was a review of objkect oriented programming but went more into depth abouut terms like getters and setters, was complicated at first but proved to be great practice overall*
 
+**CHAPTER 4: [File I/O](https://github.com/Darrenrodricks/IntermediatePythonNanodegree/tree/main/ObjectOrientedProgramming)**
+*This was a review of objkect oriented programming but went more into depth abouut terms like getters and setters, was complicated at first but proved to be great practice overall*
+
 ### Will upload part 2 of course by end of day on July 24, 2021
