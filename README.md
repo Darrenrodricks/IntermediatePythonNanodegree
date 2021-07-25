@@ -18,4 +18,6 @@
 **CHAPTER 4: [File I/O](https://github.com/Darrenrodricks/IntermediatePythonNanodegree/tree/main/IntermediateFileIO)**
 *This chapter deals with reading and writing files, this taugh me the basics and then also went more in detail talking about the different styles of reading and writing files uusing notation such as comma-separated values and Javascript Object Notation*
 
+**CHAPTER 5: [Foundations](https://github.com/Darrenrodricks/IntermediatePythonNanodegree/tree/main/Foundations)**
+*This chapter covers design patterns to write clear code, more object oriented programming and more documentational work. There is also lessons about web conntent to build advanced programs and also how bigger data sets can be sorted and made useful throuugh different styles of code.*
 
